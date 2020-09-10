@@ -17,7 +17,8 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
-        ]
+        ],
+        "group": "test-group"
       }
     ],
     "resource": [
@@ -46,6 +47,11 @@
     "fileMetadata": {},
     "template": [],
     "dest": "vscode-docs-build-e2e-test",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "groups": {
+      "test-group": {
+        "moniker_range": "netcore-1.1.0"
+      }
+    }
   }
 }
