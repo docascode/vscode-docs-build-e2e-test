@@ -1,4 +1,5 @@
 {
     "telemetry.enableTelemetry": false,
-    "docs-build.environment": "PPE"
+    "docs-build.environment": "PPE",
+    "docs-build.debugMode.enable": true
 }
