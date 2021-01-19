@@ -1,5 +1,7 @@
 {
     "telemetry.enableTelemetry": false,
     "docs-build.environment": "PPE",
-    "docs-build.debugMode.enable": true
+    "docs-build.debugMode.enable": true,
+    "docs-build.userType": "Microsoft Employee",
+    "docs-build.real-TimeValidation.automaticallyEnable": true
 }
