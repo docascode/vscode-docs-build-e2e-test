@@ -42,7 +42,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/vscode-docs-build-e2e-test/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "uhfHeaderId": "test"
     },
     "fileMetadata": {},
     "template": [],
